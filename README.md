@@ -13,11 +13,10 @@ The dataset contains the following columns:
 ## **Visualizations and Insights**
 
 ### **1. Regional Performance by Products**
-**Chart Type**: Stacked Bar Chart
 
 **Description**: This chart illustrates the contribution of each product to the total revenue in different regions (North, South, East, and West).
 
-**[View Chart](https://public.tableau.com/app/profile/oliseh.okiah/viz/SalesAnalysis_17337698482380/RegionalPerformanceByProducts)**
+**![View Chart](RegionalPerformance.png)**
 
 **Insights**:
 - The **West region** consistently generates the highest revenue, particularly from products like Galaxy and Alpen.
@@ -30,11 +29,10 @@ The dataset contains the following columns:
 ---
 
 ### **2. Relationship Between Quantity and Revenue**
-**Chart Type**: Scatter Plot
 
 **Description**: This plot highlights how the quantity sold correlates with revenue across products and sales reps.
 
-**[View Chart](https://public.tableau.com/app/profile/oliseh.okiah/viz/SalesAnalysis_17337698482380/QuantityVsRevenue)**
+**![View Chart](Revenue&Quantity.png)**
 
 **Insights**:
 - A higher quantity sold often correlates with higher revenue, but the relationship varies by product.
@@ -47,11 +45,10 @@ The dataset contains the following columns:
 ---
 
 ### **3. Regional Revenue Distribution**
-**Chart Type**: Pie Chart
 
 **Description**: This chart visualizes the percentage contribution of each region to the total revenue.
 
-**[View Chart](https://public.tableau.com/app/profile/oliseh.okiah/viz/SalesAnalysis_17337698482380/RegionalRevenueDistribution)**
+**![View Chart](RegionalRevenue.png)**
 
 **Insights**:
 - The **West region** accounts for the largest share of revenue (~40%).
@@ -64,11 +61,10 @@ The dataset contains the following columns:
 ---
 
 ### **4. Product-Wise Revenue**
-**Chart Type**: Horizontal Bar Chart
 
 **Description**: This chart ranks products based on their revenue contributions.
 
-**[View Chart](https://public.tableau.com/app/profile/oliseh.okiah/viz/SalesAnalysis_17337698482380/ProductWiseRevenue)**
+**![View Chart](Product.png)**
 
 **Insights**:
 - **Star and Galaxy** are the top-performing products, generating the highest revenue.
@@ -81,11 +77,10 @@ The dataset contains the following columns:
 ---
 
 ### **5. Top 10 Sales Reps**
-**Chart Type**: Bar Chart
 
 **Description**: This chart lists the top 10 sales reps based on revenue generated.
 
-**[View Chart](https://public.tableau.com/app/profile/oliseh.okiah/viz/SalesAnalysis_17337698482380/Top10SalesReps)**
+**![View Chart](SalesRepRevenue.png)**
 
 **Insights**:
 - **Bala, Rachna, and Ananya** are the highest contributors.
@@ -98,7 +93,7 @@ The dataset contains the following columns:
 ---
 
 ### **6. KPI Card: Total Revenue**
-**Metric**: $6,942.5
+**Metric**: $905,702
 
 **Description**: This KPI card highlights the total revenue generated across all regions and products.
 
