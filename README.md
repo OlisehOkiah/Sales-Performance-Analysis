@@ -16,7 +16,6 @@ The dataset contains the following columns:
 
 ### **1. Regional Performance by Products**
 
-**Chart Type**: Bar Chart  
 **Description**: This chart illustrates the contribution of each product to the total revenue across different regions.  
 
 ![Regional Performance by Products](RegionalPerformance.png)
@@ -33,7 +32,6 @@ The dataset contains the following columns:
 
 ### **2. Relationship Between Quantity and Revenue**
 
-**Chart Type**: Scatter Plot  
 **Description**: This visualization highlights how sales quantity correlates with revenue across different products and sales reps.  
 
 ![Relationship Between Quantity and Revenue](Revenue&Quantity.png)
@@ -50,7 +48,6 @@ The dataset contains the following columns:
 
 ### **3. Regional Revenue Distribution**
 
-**Chart Type**: Bar Chart  
 **Description**: This chart visualizes the percentage contribution of each region to total revenue.  
 
 ![Regional Revenue Distribution](RegionalRevenue.png)
